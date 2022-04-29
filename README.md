@@ -2,9 +2,9 @@ Hi there👋
 
      👀 I’m currently learning about software development, machine learning and artificial intelligence.
      
-     🌱 I work with Python, Java, C++ (Learning...)
+     🌱 I work with Python, Flutter(Dart), HTML/CSS, and Javascript
      
-     💞️ 1st year at UofT Mississauga, Computer Science.
+     💞️ 2nd year at UofT Mississauga, Computer Science.
      
      ✌ Open to collaborations on projects.
 
